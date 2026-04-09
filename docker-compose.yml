@@ -1,0 +1,26 @@
+version: "3.8"
+services:
+  nginx:
+    image: nginx:alpine
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./frontend/dist:/usr/share/nginx/html
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on: [flask]
+    restart: always
+
+  flask:
+    build: ./backend
+    env_file: ./backend/.env
+    ports: ["5000:5000"]
+    restart: always
+    # Ollama runs natively on VPS host. Flask connects via host.docker.internal or LAN IP.
+
+  uptime-kuma:
+    image: louislam/uptime-kuma:1
+    ports: ["3001:3001"]
+    volumes: ["uptime-kuma:/app/data"]
+    restart: always
+
+volumes:
+  uptime-kuma:
