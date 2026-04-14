@@ -1,0 +1,19 @@
+# Ignore local environment files
+backend/.env
+
+# Ignore Python bytecode and caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.venv/
+venv/
+backend/.venv/
+
+# Ignore OS temp files
+*.swp
+*~
+.DS_Store
