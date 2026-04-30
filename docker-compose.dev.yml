@@ -1,0 +1,35 @@
+services:
+  flask:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    env_file: ./backend/.env
+    ports:
+      - "5000:5000"           # exposed directly in dev — no Nginx needed
+    volumes:
+      - ./backend:/app        # hot reload — code changes reflect instantly
+    environment:
+      - FLASK_ENV=development
+      - FLASK_DEBUG=1
+    extra_hosts:
+      - "host.docker.internal:host-gateway"          # reach local Ollama
+    restart: unless-stopped
+    networks:
+      - smilh-dev
+
+  uptime-kuma:
+    image: louislam/uptime-kuma:1
+    ports:
+      - "3001:3001"
+    volumes:
+      - uptime-kuma-dev:/app/data
+    restart: unless-stopped
+    networks:
+      - smilh-dev
+
+volumes:
+  uptime-kuma-dev:
+
+networks:
+  smilh-dev:
+    driver: bridge

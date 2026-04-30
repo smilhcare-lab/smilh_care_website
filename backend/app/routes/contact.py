@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 contact_bp = Blueprint('contact', __name__)
 
-@contact_bp.route('/contact', methods=['POST'])
+@contact_bp.route('/api/contact', methods=['POST'])
 def contact():
     """
     Endpoint to receive and validate contact form data.
