@@ -1,0 +1,12 @@
+flask
+flask-cors
+python-dotenv
+supabase
+resend
+langchain
+langchain-community
+langchain-ollama
+langchain-cohere
+langchain-text-splitters
+faiss-cpu
+requests

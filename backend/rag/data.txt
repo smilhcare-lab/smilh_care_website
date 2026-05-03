@@ -1,0 +1,348 @@
+================================================================================
+SMILH CARE — RAG KNOWLEDGE BASE
+Website Content Extraction | Frontend Source
+Generated from: smilh_care_website (branch: responsivness_done)
+================================================================================
+
+--------------------------------------------------------------------------------
+DOCUMENT 1 — COMPANY OVERVIEW
+--------------------------------------------------------------------------------
+
+Company Name: Smilh Care (also written "Smile Care")
+Tagline: "Une Présence, Ensemble Chaque Jour"
+Brand Slogan: "Plus qu'un service, une présence."
+Hero Headline: "Votre bien-être à domicile, notre priorité."
+Sub-description: Chez Smile Care, nous mettons tout en œuvre pour vous offrir des services à domicile fiables, humains et adaptés à vos besoins — avec le sourire.
+Contact Email: contact@smilhcare.com
+Availability: 7 jours sur 7 (7 days a week)
+Response Time: Réponse garantie sous 24 heures (Response guaranteed within 24 hours)
+Geographic Coverage: France — Service National
+Type of Business: Services à domicile (Home care services)
+Number of Services: 6
+
+Key Statistics shown on website:
+- 6 services available
+- Available 7 days a week
+- 100% client satisfaction
+- Response guaranteed within 24 hours
+
+Trust Badges shown in Hero:
+- Écoute & accompagnement (Listening & support)
+- Discrétion garantie (Discretion guaranteed)
+- Réponse sous 24h (Response within 24h)
+
+Marquee/scroll text on homepage:
+Aide à domicile | Bienveillance | Ménage & Repassage | Garde d'enfants | Accompagnement | Discrétion | Assistance administrative | Disponible 7j/7 | Confiance | Proximité
+
+--------------------------------------------------------------------------------
+DOCUMENT 2 — WEBSITE NAVIGATION & PAGES
+--------------------------------------------------------------------------------
+
+The website has 4 main pages accessible via navigation:
+1. Accueil (Home) — Route: /
+2. Services — Route: /services
+3. Pourquoi Nous (Why Us) — Route: /pourquoi-nous
+4. Contact — Route: /contact
+
+Navbar CTA button: "Devis gratuit" → links to /contact
+Hero CTA buttons:
+- "Demande de devis gratuit" → /contact
+- "Nos services" → /services
+
+Footer navigation links: Accueil, Services, Pourquoi Nous, Contact
+Footer social media: Facebook, Instagram (links present)
+
+--------------------------------------------------------------------------------
+DOCUMENT 3 — SERVICES PAGE
+--------------------------------------------------------------------------------
+
+Page Title: "Des services pensés pour votre quotidien"
+Page Subtitle: "Chaque prestation Smile Care est conçue pour améliorer votre vie à domicile, avec professionnalisme et le sourire."
+Badge: "6 Prestations"
+
+--- SERVICE 01: Aide aux personnes âgées et en situation de handicap ---
+Tagline: "Une présence qui rassure, chaque jour."
+Description: Nous assurons une assistance au quotidien ainsi qu'une présence rassurante. Notre objectif est d'accompagner chaque personne dans les gestes de la vie courante afin de maintenir son autonomie et son bien-être à domicile.
+Details / Sub-services included:
+- Aide à la toilette et à l'habillage
+- Préparation et aide aux repas
+- Accompagnement pour les sorties
+- Présence et compagnie
+- Surveillance et sécurité au domicile
+- Stimulation cognitive et activités
+
+--- SERVICE 02: Ménage et repassage ---
+Tagline: "Un intérieur propre, un esprit serein."
+Description: Nous prenons en charge l'entretien complet de votre logement avec sérieux, efficacité et discrétion. Pour un intérieur propre, sain et agréable à vivre.
+Details / Sub-services included:
+- Nettoyage complet des pièces
+- Aspiration et lavage des sols
+- Nettoyage des sanitaires et cuisine
+- Repassage et pliage du linge
+- Rangement et organisation
+- Nettoyage des vitres
+
+--- SERVICE 03: Garde d'enfants ---
+Tagline: "Sécurité, sourire et épanouissement."
+Description: Nous proposons une garde responsable, bienveillante et adaptée aux besoins de chaque enfant. Nous veillons à leur sécurité, leur confort et leur épanouissement dans un environnement chaleureux.
+Details / Sub-services included:
+- Garde à domicile (matin, soir, nuit)
+- Aide aux devoirs
+- Activités d'éveil et jeux
+- Repas et bains
+- Accompagnement école / crèche
+- Garde de nuit ponctuelle
+
+--- SERVICE 04: Accompagnement ---
+Tagline: "À vos côtés, partout où vous en avez besoin."
+Description: Nous vous accompagnons dans vos déplacements du quotidien : courses, sorties, rendez-vous médicaux ou administratifs. Nous sommes à vos côtés partout où vous en avez besoin.
+Details / Sub-services included:
+- Courses alimentaires et commissions
+- Rendez-vous médicaux
+- Rendez-vous administratifs
+- Sorties culturelles et loisirs
+- Promenades et activités extérieures
+- Démarches en mairie ou préfecture
+
+--- SERVICE 05: Assistance administrative ---
+Tagline: "Simplifier vos démarches, c'est notre rôle."
+Description: Nous vous aidons dans vos démarches administratives complexes. De la carte Vitale à la régularisation de séjour, nous vous accompagnons pas à pas.
+Details / Sub-services included:
+- Demande / renouvellement carte Vitale
+- Carte d'identité & permis de conduire
+- Titre de séjour & carte de résidence
+- Aide à la régularisation de séjour
+- Courriers administratifs
+- Démarches en ligne
+
+--- SERVICE 06: Accompagnement personnalisé ---
+Tagline: "Sur mesure, parce que chacun est unique."
+Description: Vous avez un besoin spécifique qui ne rentre pas dans une case ? Nous sommes à l'écoute pour construire avec vous une solution sur mesure, adaptée à votre situation personnelle.
+Details / Sub-services included:
+- Évaluation personnalisée de vos besoins
+- Plan d'accompagnement sur mesure
+- Flexibilité des horaires
+- Suivi régulier et ajustements
+- Coordination avec la famille
+- Devis gratuit sans engagement
+
+Services Page CTA section:
+Title: "Obtenez votre devis gratuit"
+Description: Contactez-nous et nous vous proposerons une solution personnalisée adaptée à votre situation, sans engagement.
+Buttons: "Demander un devis" | "Pourquoi nous choisir ?"
+
+--------------------------------------------------------------------------------
+DOCUMENT 4 — POURQUOI NOUS (WHY CHOOSE US) PAGE
+--------------------------------------------------------------------------------
+
+Page Title: "Pourquoi choisir Smile Care ?"
+Page Intro: Chez Smile Care, nous ne nous contentons pas de fournir un service. Nous nous engageons à construire une relation de confiance durable, fondée sur le respect et la bienveillance.
+
+--- 5 REASONS TO CHOOSE SMILE CARE ---
+
+Reason 01: Écoute & accompagnement personnalisé
+Description: Nous prenons le temps de comprendre votre situation unique avant toute intervention. Chaque client bénéficie d'une évaluation personnalisée et d'un plan d'accompagnement sur mesure.
+
+Reason 02: Professionnalisme & discrétion
+Description: Nos intervenants sont sélectionnés pour leur sérieux, leur savoir-faire et leur sens de la discrétion. Chaque prestation est réalisée avec rigueur et respect de votre espace privé.
+
+Reason 03: Services fiables & adaptés
+Description: Nos services s'adaptent à l'évolution de vos besoins. Que votre situation change ou que vos attentes évoluent, nous ajustons notre accompagnement en conséquence.
+
+Reason 04: Relation de confiance durable
+Description: Nous construisons une relation de confiance sur le long terme avec chaque client. La régularité de nos intervenants vous permet de tisser un lien humain authentique et rassurant.
+
+Reason 05: Disponibilité 7j/7
+Description: Parce que les besoins n'ont pas d'horaires, Smile Care est disponible tous les jours de la semaine. Réponse garantie sous 24h pour toute demande, et intervention flexible selon vos disponibilités.
+
+--- 4 CONCRETE COMMITMENTS ---
+
+Commitment 1: Évaluation gratuite
+Description: Un premier entretien sans engagement pour comprendre vos besoins.
+
+Commitment 2: Réponse en 24h
+Description: Nous vous recontactons rapidement pour organiser votre accompagnement.
+
+Commitment 3: Flexibilité totale
+Description: Modifications, annulations, ajustements — sans frais cachés.
+
+Commitment 4: Confidentialité
+Description: Vos informations personnelles restent strictement confidentielles.
+
+--- PHILOSOPHY BANNER ---
+Quote: "Smile Care, plus qu'un service : une présence qui fait la différence."
+Description: Avec Smile Care, vous bénéficiez d'un accompagnement personnalisé et d'une présence rassurante au quotidien.
+
+CTA Buttons: "Demander un devis gratuit" | "Voir nos services"
+
+--------------------------------------------------------------------------------
+DOCUMENT 5 — CONTACT PAGE
+--------------------------------------------------------------------------------
+
+Page Title: "Parlons de vos besoins"
+Subtitle: Remplissez le formulaire et notre équipe vous recontactera sous 24h pour discuter de votre accompagnement.
+
+--- CONTACT INFORMATION ITEMS ---
+- Disponibilité: 7 jours sur 7
+- Email: contact@smilhcare.com
+- Réponse: Sous 24 heures
+- Zone: France — Service National
+
+--- BRAND STATEMENT ON CONTACT PAGE ---
+"Chez Smile Care, chaque client est unique. Nous nous engageons à vous offrir un service personnalisé, fiable et humain."
+
+--- WELCOME OFFER ---
+Title: "Offre de bienvenue"
+Offer: -10% sur votre première prestation (10% discount on the first service)
+Badge text: "-10% OFFRE DE BIENVENUE"
+Eligibility: Offre valable pour tout nouveau client (Valid for all new clients)
+
+--- CONTACT FORM ---
+Form Title: "Demande de devis gratuit"
+Form Subtitle: "Sans engagement. Réponse garantie sous 24h."
+Form Fields:
+- Nom complet * (Full name - required)
+- Téléphone * (Phone - required)
+- Email (optional)
+- Service souhaité * (Desired service - required, dropdown)
+- Votre message * (Your message - required)
+
+Available service options in the contact form dropdown:
+- Aide aux personnes âgées et en situation de handicap
+- Ménage & repassage
+- Garde d'enfants
+- Accompagnement (courses, sorties, rendez-vous)
+- Assistance administrative
+- Autre / Accompagnement personnalisé
+
+Submit Button: "Envoyer ma demande"
+
+Success message: "Message envoyé ! Nous vous rappellerons très bientôt."
+Legal notice: "En envoyant ce formulaire, vous acceptez que nous vous recontactions concernant votre demande."
+
+API Endpoint used: POST /api/contact
+
+--------------------------------------------------------------------------------
+DOCUMENT 6 — HOME PAGE CONTENT
+--------------------------------------------------------------------------------
+
+Hero Section:
+- Badge: "Disponible 7j/7"
+- Headline: "Votre bien-être à domicile, notre priorité."
+- Subtext: Chez Smile Care, nous mettons tout en œuvre pour vous offrir des services à domicile fiables, humains et adaptés à vos besoins — avec le sourire.
+- CTA 1: "Demande de devis gratuit" → /contact
+- CTA 2: "Nos services" → /services
+- Trust badges: Écoute & accompagnement | Discrétion garantie | Réponse sous 24h
+- Floating stat card: 100% Clients satisfaits
+- Floating badge: 6 Services
+
+Statistics Section (animated counters):
+- 6 — Services disponibles
+- 7j/7 — Disponibilité
+- 100% — Satisfaction client
+- 24h — Réponse garantie
+
+Services Preview Section:
+Section Headline: "Des services sur mesure pour vous simplifier la vie"
+Section Subtext: Chaque prestation est pensée pour répondre à vos besoins spécifiques, avec professionnalisme et discrétion.
+CTA: "Voir tous nos services" → /services
+
+Services shown in home preview:
+1. Aide aux personnes âgées — Présence rassurante et assistance personnalisée pour préserver l'autonomie à domicile.
+2. Ménage & repassage — Entretien complet de votre logement, réalisé avec soin, discrétion et efficacité.
+3. Garde d'enfants — Une garde bienveillante, adaptée à chaque enfant, dans un environnement chaleureux.
+4. Accompagnement — Courses, sorties, rendez-vous médicaux — nous sommes à vos côtés partout.
+5. Assistance administrative — Simplification de vos démarches : Carte Vitale, titre de séjour, CNI et plus.
+6. Accompagnement personnalisé — Chaque client est unique. Nous adaptons chaque prestation à vos besoins spécifiques.
+
+Company Values Section:
+Section context: "Pourquoi choisir Smile Care?"
+Description: Nous ne sommes pas seulement un service — nous sommes une présence rassurante. Chaque accompagnement est réalisé avec écoute, respect et discrétion.
+Additional text: Notre équipe s'engage à garantir votre confort et votre tranquillité d'esprit, en adaptant chaque prestation à votre situation personnelle.
+CTA: "Nos engagements" → /pourquoi-nous
+
+Core Values displayed:
+1. Bienveillance — L'humain est au cœur de chaque accompagnement.
+2. Professionnalisme — Des prestations sérieuses, ponctuelles et de qualité.
+3. Proximité — À l'écoute permanente de vos besoins.
+4. Confiance — Une relation durable construite sur la transparence.
+
+Testimonial Section:
+Quote: "Service sérieux, personne très attentionnée. Notre mère a retrouvé le sourire depuis que Smile Care l'accompagne chaque semaine. Une vraie présence, une vraie confiance."
+Client: Marie D. — Cliente Smile Care
+Rating: 5 stars
+
+CTA Band Section:
+Headline: "Prêt à simplifier votre quotidien ?"
+Subtext: "Devis gratuit, réponse sous 24h. Sans engagement."
+Button: "Contactez-nous" → /contact
+
+--------------------------------------------------------------------------------
+DOCUMENT 7 — FOOTER CONTENT
+--------------------------------------------------------------------------------
+
+Footer brand description: "Votre partenaire de confiance pour les services à domicile. Bienveillance, professionnalisme et disponibilité 7j/7."
+Copyright: "© [year] Smile Care. Tous droits réservés."
+Footer tagline: "Plus qu'un service, une présence."
+
+Footer columns:
+1. Brand (with logo, description, social links: Facebook, Instagram)
+2. Nos Services: Aide aux personnes âgées | Ménage & repassage | Garde d'enfants | Accompagnement | Assistance administrative
+3. Navigation: Accueil | Services | Pourquoi Nous | Contact
+4. Contact: Disponible 7j/7 | contact@smilhcare.com | France — Service National
+
+--------------------------------------------------------------------------------
+DOCUMENT 8 — FAQ-STYLE EXTRACTIONS
+--------------------------------------------------------------------------------
+
+Q: What is Smilh Care?
+A: Smilh Care (Smile Care) is a French home care service company offering personalized services to individuals at home. Their tagline is "Une Présence, Ensemble Chaque Jour" (A Presence, Together Every Day). They operate across France as a national service.
+
+Q: What services does Smilh Care offer?
+A: Smilh Care offers 6 main services: (1) Aide aux personnes âgées et en situation de handicap (Assistance for elderly and disabled people), (2) Ménage et repassage (Cleaning and ironing), (3) Garde d'enfants (Childcare), (4) Accompagnement (Accompaniment for errands, medical appointments, outings), (5) Assistance administrative (Administrative assistance), (6) Accompagnement personnalisé (Personalized accompaniment for specific needs).
+
+Q: How can I contact Smilh Care?
+A: You can contact Smilh Care via email at contact@smilhcare.com, or by filling out the contact form at /contact. The team responds within 24 hours, 7 days a week.
+
+Q: Is there a discount for new clients?
+A: Yes. Smilh Care offers 10% off on the first service for all new clients ("Offre de bienvenue").
+
+Q: How quickly does Smilh Care respond?
+A: Smilh Care guarantees a response within 24 hours for any request.
+
+Q: Is Smilh Care available on weekends?
+A: Yes. Smilh Care is available 7 days a week, including weekends.
+
+Q: Does Smilh Care charge for an initial consultation?
+A: No. Smilh Care offers a free initial assessment ("Évaluation gratuite") with no commitment required.
+
+Q: Are price quotes free?
+A: Yes. Smilh Care offers free quotes ("Devis gratuit") with no commitment required.
+
+Q: Are modifications or cancellations free?
+A: Yes. Smilh Care offers complete flexibility including modifications, cancellations and adjustments with no hidden fees.
+
+Q: Is personal data kept confidential?
+A: Yes. Smilh Care guarantees that personal information is kept strictly confidential.
+
+Q: Does Smilh Care help with administrative paperwork?
+A: Yes. The administrative assistance service covers: Carte Vitale renewal, identity cards, driving licenses, residence permits, regularization of stay, administrative letters, and online procedures.
+
+Q: What childcare options does Smilh Care offer?
+A: Smilh Care provides: at-home babysitting (morning, evening, night), homework help, educational activities and games, meals and baths, school/nursery accompaniment, and occasional overnight care.
+
+Q: What does the elderly care service include?
+A: The service includes: help with bathing and dressing, meal preparation and assistance, accompaniment for outings, companionship and presence, home safety and surveillance, and cognitive stimulation activities.
+
+Q: What does the accompaniment service cover?
+A: Accompaniment covers: grocery shopping and errands, medical appointments, administrative appointments, cultural outings and leisure, walks and outdoor activities, and city hall or prefecture visits.
+
+Q: What areas does Smilh Care cover?
+A: Smilh Care operates throughout France as a national service (Service National).
+
+Q: What is the philosophy of Smilh Care?
+A: "Smile Care, plus qu'un service : une présence qui fait la différence." — Smile Care is not just a service provider but a reassuring presence. Each service is performed with listening, respect, and discretion. The four core values are: Bienveillance (Kindness), Professionnalisme (Professionalism), Proximité (Closeness), and Confiance (Trust).
+
+=================================
+END OF RAG KNOWLEDGE BASE — SMILH CARE
+================================================================================

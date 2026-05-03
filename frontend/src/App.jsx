@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+import ChatBot from './components/ChatBot'
 import Home from './pages/Home'
 import Services from './pages/Services'
 import PourquoiNous from './pages/PourquoiNous'
@@ -27,6 +28,8 @@ function AppLayout() {
         </Routes>
       </main>
       <Footer />
+      {/* Chatbot popup — rendered on every page, portal-like via fixed positioning */}
+      <ChatBot />
     </>
   )
 }
